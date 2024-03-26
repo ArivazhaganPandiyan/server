@@ -1,6 +1,6 @@
 import express from "express";
 import jwt from "jsonwebtoken";
-import bcrypt from "bcrypt.js";
+import bcrypt from "bcryptjs";
 import dotenv from 'dotenv';
 dotenv.config();
 
