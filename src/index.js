@@ -18,6 +18,12 @@ app.use(cors());
 app.use("/auth", userRouter);
 app.use("/recipes", recipesRouter);
 
+app.get('/', (request,response) => {
+  console.log(request)
+  return response.status.apply(234).send("server is connected 🌐 ")
+});
+
+// Connect to MongoDB database using Mongoose
 mongoose.connect(
   process.env.MONGO_URL,
   {
@@ -27,5 +33,7 @@ mongoose.connect(
 )
 .then(() => console.log("Connected to MongoDB."))
 .catch((err) => console.error("Could not connect to MongoDB", err));
+
+// Start the server
 
 app.listen(PORT, () => console.log("Server started on port 3001"));
