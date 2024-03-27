@@ -12,6 +12,12 @@ The backend source code is organized into several files:
 - **routes/recipes.js**: Defines the API routes related to recipes, including endpoints for fetching all recipes, creating a new recipe, getting a recipe by ID, saving a recipe, getting saved recipes, and deleting a recipe.
 - **routes/user.js**: Defines the API routes related to user authentication, including endpoints for user registration and login.
 
+Here are some screenshots from PostMan for testing API:
+
+1. ![register](https://github.com/ArivazhaganPandiyan/server/blob/main/src/images/register.png)
+2. ![Login](https://github.com/ArivazhaganPandiyan/server/blob/main/src/images/login.png)
+3. ![Get Recipes](https://github.com/ArivazhaganPandiyan/server/blob/main/src/images/getRecipe.png)
+
 ## Installation and Setup
 
 1. Clone the repository.
