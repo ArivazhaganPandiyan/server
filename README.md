@@ -46,11 +46,11 @@ The backend source code is organized into several files:
 
 ## Frontend Source Code
 
-Find the frontend source code on [GitHub](https://github.com/arivu/client.github.io).
+Find the frontend source code on [GitHub](https://github.com/ArivazhaganPandiyan/client).
 
 ## Deployed Frontend
 
-Access the deployed frontend on [Netlify](https://cookin-catalog.netlify.app/).
+Access the deployed frontend on [Netlify](https://cooking-catalog.netlify.app/).
 
 ## Deployed Backend
 
@@ -58,7 +58,7 @@ Access the deployed backend server on [Render](https://server-578r.onrender.com)
 
 ## GitHub Repository
 
-Find the backend source code on [GitHub](https://github.com/arivu/backend.github.io).
+Find the backend source code on [GitHub](https://github.com/ArivazhaganPandiyan/server).
 
 ## Note
 
