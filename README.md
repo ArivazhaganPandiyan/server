@@ -56,7 +56,7 @@ Find the frontend source code on [GitHub](https://github.com/ArivazhaganPandiyan
 
 ## Deployed Frontend
 
-Access the deployed frontend on [Netlify](https://cooking-catalog.netlify.app/).
+Access the deployed frontend on [Netlify](https://cooking-catalog-app.netlify.app/).
 
 ## Deployed Backend
 
